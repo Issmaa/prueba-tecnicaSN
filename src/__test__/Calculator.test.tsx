@@ -1,4 +1,4 @@
-import Calculator from '../components/Calculator'; // Ajusta la ruta según tu proyecto
+import Calculator from '../components/Calculator';
 
 describe('Calculator', () => {
     let calculator: Calculator;
