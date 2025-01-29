@@ -5,7 +5,7 @@ interface PropsResult {
 }
 
 const Result: React.FC<PropsResult> = ({result}) =>{
-
+    
     return (
         <div>
         {result !== null && (
