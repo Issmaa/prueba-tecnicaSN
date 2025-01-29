@@ -1,0 +1,20 @@
+
+.textHeader{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.input-number{
+    border-radius: 5px;
+    margin: 20px;
+    height: 22px;
+    border-style: none;
+}
+
+.btn-calc{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-left: 15px;
+}
